@@ -4,7 +4,6 @@ import base64
 import os
 import json
 from flask import Flask, request, jsonify
-import urllib
 import requests
 from urlparse import urlparse
 from translate import Translator
