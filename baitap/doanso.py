@@ -4,7 +4,7 @@ number_sqr = input("Enter square of {}: ".format(number))
 if int(number_sqr) > int(number)**2:
         print ("too big")
 elif int(number_sqr) == int(number)**2:
-	print("Congralutation")
+	print("Congratulation")
 else:
 	if int(number_sqr) < int(number)**2:
 		print("too low")
