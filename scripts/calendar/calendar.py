@@ -2,7 +2,7 @@ import calendar
 # choose a year between 1 to 9999
 try:
     y= int(input())
-    if 1>y or y>9999:
+    if 1>y or y>99999:
         print("please choose another year")
     else:
         for i in range (12):
