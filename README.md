@@ -1,1 +1,1 @@
-# python3.6-lh: Hoc python
+# python3.6-lh: some python scripts
